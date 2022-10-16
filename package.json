@@ -1,0 +1,24 @@
+{
+  "name": "m1xserm4s-gulpdev",
+  "version": "1.0.0",
+  "description": "My actiual gulp build for dev on web",
+  "main": "gulpfile.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M1xSerM4s/GulpDev.git"
+  },
+  "author": "M1xSerM4s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M1xSerM4s/GulpDev/issues"
+  },
+  "homepage": "https://github.com/M1xSerM4s/GulpDev#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.10",
+    "gulp": "^4.0.2"
+  }
+}

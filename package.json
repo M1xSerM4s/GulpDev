@@ -5,7 +5,7 @@
   "main": "gulpfile.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "gulp"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   "homepage": "https://github.com/M1xSerM4s/GulpDev#readme",
   "devDependencies": {
     "browser-sync": "^2.27.10",
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-if": "^3.0.0"
   }
 }
